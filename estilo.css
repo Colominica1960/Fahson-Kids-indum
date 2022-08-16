@@ -1,0 +1,91 @@
+body{
+     background-color:#2a9175;
+     font-family: Arial, Helvetica, sans-serif;
+
+}
+h1 {
+    color: rgb(35, 119, 98);
+    font-family: century  Gothic , Arial , Helvetica;
+    text-align:center;
+    text-transform: uppercase;
+}
+p{
+    font-size: 14px;
+}
+
+.destacado{
+    color: rgb(1, 1, 2);
+}
+ul.enlace{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+
+
+ul.enlace li  {
+    display: inline; 
+}
+ul.enlace li a {
+    width: 200px;
+    height:50px ;
+    background-color: aquamarine;
+    margin-bottom:5px ;
+    display: inline-block;
+    color: #4b2349;
+    text-decoration: none;
+    text-align:center ;
+    line-height:50px ;
+    border: 2px rgb(6, 7, 6) solid;
+}
+
+ul.enlace li :hover {
+    background-color: black;
+}
+ul.botonera{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+ul.botonera li  {
+    display: inline; 
+}
+ul.botonera li a {
+    width: 200px; 
+    height: 50px;
+    background-color: aquamarine;
+    margin-bottom:5px ;
+    display: inline-block ;
+    color: rgb(61, 28, 105);
+    text-decoration:none ;
+    text-align: center;
+    line-height:50px ;
+    border: 2px black solid;
+}
+ul.botonera li :hover {
+    background-color: black;
+}
+body h1{
+    background-color: rgb(66, 168, 160);
+}
+
+body{
+    background-color:#2a9175;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+h2 {
+    font-family: century  Gothic , Arial , Helvetica;
+    text-align:center;
+    text-transform: uppercase;
+}
+
+p.destacado {
+   background-color:rgb(35, 119, 98); 
+   font-family: century  Gothic , Arial , Helvetica; 
+
+}
+
+
+
+    
