@@ -2,6 +2,10 @@ body{
     background: #222;
     font-family: 'Courier New', Courier, monospace;
 }
+
+.menu li a:hover{
+    background: #5b5755;
+}
 .titulo{
     color: white;
     text-align: center;
@@ -34,4 +38,10 @@ body{
 }
 .galeria__img:hover {
     filter: brightness(100%);
+}
+
+.menu li a {
+    text-decoration: none;
+    color: #fff;
+    padding: 20px;
 }
